@@ -1,5 +1,5 @@
 {
-  "name": "babel-twine-plugin",
+  "name": "babel-plugin-twine",
   "version": "1.0.0",
   "description": "twine transpiler to react components",
   "main": "index.js",
