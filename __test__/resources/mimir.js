@@ -1,0 +1,1 @@
+/Users/necmettinkarakaya/Documents/Twine/Stories/mimir.html
