@@ -1,0 +1,31 @@
+{
+  "name": "babel-twine-plugin",
+  "version": "1.0.0",
+  "description": "twine transpiler to react components",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --watch"
+  },
+  "keywords": [
+    "twine",
+    "text-based",
+    "babel",
+    "transpiler"
+  ],
+  "author": "Necmettin Karakaya",
+  "license": "ISC",
+  "dependencies": {
+    "babel-template": "^6.25.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-tester": "^3.3.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "buble": "^0.15.2",
+    "jest": "^20.0.4"
+  }
+}
